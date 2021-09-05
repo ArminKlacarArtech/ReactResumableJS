@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Artear/ReactResumableJS.git"
+    "url": "git+https://github.com/tinigon89/ReactResumableJS"
   },
   "keywords": [
     "resumable js",
@@ -45,6 +45,9 @@
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "resumablejs": "^1.1.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   },
   "devDependencies": {
     "babel-core": "^6.0.20",
